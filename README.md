@@ -12,7 +12,7 @@ Please export this zip file to use DragBox svelte application.
 3. When Cursor is places on top of the box:
    
    ![image](https://github.com/Akshaykapse08/Svelte_DragBox/assets/97564341/48539537-718b-4aa9-ab29-4aff5051147d)
-4. Moving (draggable) box:
+4. Draggable box (gif):
    
    ![2023-09-13 11-25-36](https://github.com/Akshaykapse08/Svelte_DragBox/assets/97564341/d09caed8-bc15-4ce9-b121-329dab7b5a06)
 
